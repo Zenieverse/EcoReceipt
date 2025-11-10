@@ -3,6 +3,8 @@ EcoReceipt scans receipts or invoices and instantly estimates the carbon footpri
 
 https://gemini.google.com/share/042733c6de2c
 
+https://vimeo.com/1135332831
+
 Project Description
 
 EcoReceipt is a web-based application that helps users understand the carbon footprint of their everyday purchases. By uploading or taking a photo of a receipt, EcoReceipt extracts the items, estimates their CO₂ emissions, and presents a detailed breakdown of environmental impact. Users can track monthly footprints, categorize their purchases, and earn EcoCredits for sustainable choices.
